@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jeet 👋
 
-<!--
-**riddhimandasj-project/riddhimandasj-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CSE Student | AI Explorer | Interested in Psychology & Human-Centered Technology**
 
-Here are some ideas to get you started:
+I'm beginning my journey in Computer Science and Engineering, exploring how artificial intelligence and human behavior connect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Artificial Intelligence and AI model evaluation
+- Psychology and human behavior
+- Human-Computer Interaction (HCI)
+- Responsible and human-centered AI
+- Programming fundamentals and problem-solving
+
+## Currently Learning
+
+- Java and programming fundamentals
+- Git and GitHub
+- Evaluating AI-generated answers critically
+- Research and documentation skills
+
+## What I'm Building
+
+I'm starting with small experiments, research notes, and beginner-friendly projects. My goal is to understand technology deeply and learn by doing.
+
+## My Approach
+
+- Stay curious.
+- Question assumptions.
+- Document what I learn.
+- Improve through consistent practice.
+
+---
+
+*This is the beginning of my journey. More experiments and projects coming as I learn.*
